@@ -10,6 +10,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -141,7 +148,7 @@
       <workItem from="1639782334968" duration="21000" />
       <workItem from="1639782427245" duration="23000" />
       <workItem from="1639782560683" duration="96000" />
-      <workItem from="1639782659707" duration="14000" />
+      <workItem from="1639782659707" duration="113000" />
     </task>
     <servers />
   </component>
@@ -149,6 +156,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/insta_barista_3000@Development__insta_barista_3000.rcov" NAME="Development: insta-barista-3000 Coverage Results" MODIFIED="1639782663288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="insta-barista-3000" />
+    <SUITE FILE_PATH="coverage/insta_barista_3000@Development__insta_barista_3000.rcov" NAME="Development: insta-barista-3000 Coverage Results" MODIFIED="1639782692503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="insta-barista-3000" />
   </component>
 </project>
